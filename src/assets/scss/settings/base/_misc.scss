@@ -1,5 +1,16 @@
 // Larger images, extra width
-$image-larger--extra-width:	48px;			// left and right exceeding pixels (.image-larger)
+$image-larger--extra-width: 48px; // left and right exceeding pixels (.image-larger)
 
 // img radius
 $img-radius: 2px;
+
+hr.r {
+  border: 1px solid red;
+}
+
+hr.w {
+  border: 1px solid white;
+}
+hr.g {
+  border: 1px solid rgb(6, 175, 6);
+}

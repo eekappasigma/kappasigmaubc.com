@@ -5,6 +5,7 @@ import ButtonGroup from "../elements/ButtonGroup";
 import Button from "../elements/Button";
 import Image from "../elements/Image";
 import Modal from "../elements/Modal";
+import YoutubeEmbed from "./YoutubeEmbed";
 
 const propTypes = {
   ...SectionProps.types,
@@ -76,41 +77,15 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://cruip.com/"
+                    href="https://rushkappasigma.ca/"
                   >
-                    Rush
+                    Rush Calendar 2022
                   </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
-          <div
-            className="hero-figure reveal-from-bottom illustration-element-01"
-            data-reveal-value="20px"
-            data-reveal-delay="800"
-          >
-            <a
-              data-video="https://player.vimeo.com/video/174002812"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
-              <Image
-                className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
-                alt="Hero"
-                width={896}
-                height={504}
-              />
-            </a>
-          </div>
-          <Modal
-            id="video-modal"
-            show={videoModalActive}
-            handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
-            videoTag="iframe"
-          />
+          <YoutubeEmbed embedId="N0q_2gWMDo4" />
         </div>
       </div>
     </section>
