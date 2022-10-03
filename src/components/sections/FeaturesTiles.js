@@ -45,7 +45,7 @@ const FeaturesTiles = ({
   const sectionHeader = {
     title: "The Four Pillars of Kappa Sigma",
     paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+      "Kappa Sigma is focused upon the Four Pillars of Fellowship, Leadership, Scholarship, and Service. As a values-based men’s fraternity, Kappa Sigma strictly forbids hazing and fosters meaningful college experiences by offering progressive membership development and pledge education.",
   };
 
   return (
@@ -69,9 +69,9 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Scholarship</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Since its inception, over $4.5 million in scholarships have
+                    been awarded by the Kappa Sigma Endowment Fund to brothers
+                    who excel in academics, campus involvement, and leadership.
                   </p>
                 </div>
               </div>
@@ -95,9 +95,9 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Leadership</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Take the lead. In Kappa Sigma, brothers learn to get
+                    involved in their communities and take the lead when
+                    something needs to be done.
                   </p>
                 </div>
               </div>
@@ -121,9 +121,9 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Service</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Helping others is part of being a Kappa Sigma. Brothers
+                    spend thousands of hours working in their communities and
+                    raise thousands of dollars for worthy causes each year.
                   </p>
                 </div>
               </div>
@@ -144,9 +144,12 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Fellowship</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Joining Kappa Sigma provides opportunities for fellowship,
+                    fun, and personal growth that you simply cannnot get
+                    elsewhere. Over 280,000 men have joined and enjoyed the
+                    unmatched experiences, involvement, and lifelong brotherhood
+                    that Kappa Sigma offers. There is no secret… our goal is to
+                    build better men.
                   </p>
                 </div>
               </div>
