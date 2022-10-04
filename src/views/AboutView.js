@@ -1,7 +1,5 @@
 import React from "react";
 // import sections
-import Hero from "../components/sections/Hero";
-import FeaturesTiles from "../components/sections/FeaturesTiles";
 import About from "../components/sections/About";
 
 const AboutView = () => {

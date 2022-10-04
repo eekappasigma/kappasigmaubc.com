@@ -136,6 +136,7 @@ const Header = ({
                         href="https://linktr.ee/kappasigmaubc"
                         onClick={closeMenu}
                         target="_blank"
+                        rel="noopener noreferrer"
                       >
                         Connect with us!
                       </a>
@@ -156,6 +157,7 @@ const Header = ({
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                           target="_blank"
+                          rel="noopener noreferrer"
                         >
                           Portal
                         </a>
