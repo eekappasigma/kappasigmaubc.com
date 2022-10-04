@@ -130,7 +130,7 @@ const RushSection = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/rush-img-02.jpeg")}
+                  src={require("./../../assets/images/rush-img-04.jpeg")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -172,7 +172,7 @@ const RushSection = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/rush-img-02.jpeg")}
                   alt="Features split 03"
                   width={528}
                   height={396}
