@@ -122,11 +122,6 @@ const Header = ({
                       </Link>
                     </li> */}
                     <li>
-                      <Link to="/guidelines" onClick={closeMenu}>
-                        Covid-19 Guidelines
-                      </Link>
-                    </li>
-                    <li>
                       <Link to="/rush" onClick={closeMenu}>
                         Rush
                       </Link>
