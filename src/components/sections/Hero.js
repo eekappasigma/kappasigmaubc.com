@@ -77,7 +77,7 @@ const Hero = ({
                     wideMobile
                     href="https://rushkappasigma.ca/"
                   >
-                    Rush Calendar 2022
+                    Rush Calendar 2023
                   </Button>
                 </ButtonGroup>
               </div>
