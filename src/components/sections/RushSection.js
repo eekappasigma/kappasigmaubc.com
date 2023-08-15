@@ -78,6 +78,9 @@ const RushSection = ({
                   invite only event. Kappa Sigma runs a Fall and Winter Rush,
                   allowing for two cohorts of new potential brothers each year.
                 </p>
+                <p className="m-0">
+                  First rush will take place at 1-2880 Wesbrook Mall on September 14th. Second rush will take place on September 20th.
+                </p>
               </div>
               <div
                 className={classNames(
@@ -121,6 +124,9 @@ const RushSection = ({
                   recommends attending its Formal Rush after that of another
                   fraternity.
                 </p>
+                <p className="m-0">
+                  Formal Rush will take place on September 28th.
+                </p>
               </div>
               <div
                 className={classNames(
@@ -162,6 +168,9 @@ const RushSection = ({
                   pledge period, the new members are officially initiated into
                   the chapter and enjoys all the benefits of being a Brother of
                   Epsilon Epsilon Chapter, and a Kappa Sigma initiate.
+                </p>
+                <p className="m-0">
+                  Bids Day will take place on September 29th.
                 </p>
               </div>
               <div
