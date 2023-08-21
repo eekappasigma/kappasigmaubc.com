@@ -50,44 +50,44 @@ const Hero = ({
     bottomDivider && "has-bottom-divider"
   );
 
-  // return (
-  //   <section {...props} className={outerClasses}>
-  //     <div className="container-sm">
-  //       <div className={innerClasses}>
-  //         <div className="hero-content">
-  //           <h1
-  //             className="mt-0 mb-16 reveal-from-bottom"
-  //             data-reveal-delay="200"
-  //           >
-  //             Kappa Sigma{" "}
-  //             <span className="text-color-primary">Epsilon Epsilon</span>
-  //           </h1>
-  //           <div className="container-xs">
-  //             <p
-  //               className="m-0 mb-32 reveal-from-bottom"
-  //               data-reveal-delay="400"
-  //             >
-  //               Join the most international brotherhood in Canada
-  //             </p>
-  //             <div className="reveal-from-bottom" data-reveal-delay="600">
-  //               <ButtonGroup>
-  //                 <Button
-  //                   tag="a"
-  //                   color="primary"
-  //                   wideMobile
-  //                   href="https://www.ksigubcevents.com/rush"
-  //                 >
-  //                   Rush Calendar 2023
-  //                 </Button>
-  //               </ButtonGroup>
-  //             </div>
-  //           </div>
-  //         </div>
-  //         <YoutubeEmbed embedId="N0q_2gWMDo4" />
-  //       </div>
-  //     </div>
-  //   </section>
-  // );
+  return (
+    <section {...props} className={outerClasses}>
+      <div className="container-sm">
+        <div className={innerClasses}>
+          <div className="hero-content">
+            <h1
+              className="mt-0 mb-16 reveal-from-bottom"
+              data-reveal-delay="200"
+            >
+              Kappa Sigma{" "}
+              <span className="text-color-primary">Epsilon Epsilon</span>
+            </h1>
+            <div className="container-xs">
+              <p
+                className="m-0 mb-32 reveal-from-bottom"
+                data-reveal-delay="400"
+              >
+                Join the most international brotherhood in Canada
+              </p>
+              <div className="reveal-from-bottom" data-reveal-delay="600">
+                <ButtonGroup>
+                  <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://www.ksigubcevents.com/rush"
+                  >
+                    Rush Calendar 2023
+                  </Button>
+                </ButtonGroup>
+              </div>
+            </div>
+          </div>
+          <YoutubeEmbed embedId="N0q_2gWMDo4" />
+        </div>
+      </div>
+    </section>
+  );
 };
 
 Hero.propTypes = propTypes;
