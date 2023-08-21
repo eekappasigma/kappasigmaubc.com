@@ -75,7 +75,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://rushkappasigma.ca/"
+                    href="https://www.ksigubcevents.com/rush"
                   >
                     Rush Calendar 2023
                   </Button>
