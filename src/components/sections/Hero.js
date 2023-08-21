@@ -70,7 +70,7 @@ const Hero = ({
                 Join the most international brotherhood in Canada
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
+                {/* <ButtonGroup>
                   <Button
                     tag="a"
                     color="primary"
@@ -79,7 +79,7 @@ const Hero = ({
                   >
                     Rush Calendar 2023
                   </Button>
-                </ButtonGroup>
+                </ButtonGroup> */}
               </div>
             </div>
           </div>
