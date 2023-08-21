@@ -69,7 +69,6 @@ const Hero = ({
               >
                 Join the most international brotherhood in Canada
               </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
             </div>
           </div>
           <YoutubeEmbed embedId="N0q_2gWMDo4" />
