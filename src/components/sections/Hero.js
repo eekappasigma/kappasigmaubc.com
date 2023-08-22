@@ -71,6 +71,18 @@ const Hero = ({
               </p>
             </div>
           </div>
+           <div className="reveal-from-bottom" data-reveal-delay="600">
+                <ButtonGroup>
+                  <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://linktr.ee/kappasigmaubc"
+                  >
+                    Rush 2023
+                  </Button>
+                </ButtonGroup>
+              </div>
           <YoutubeEmbed embedId="N0q_2gWMDo4" />
         </div>
       </div>
