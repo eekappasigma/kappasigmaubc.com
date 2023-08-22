@@ -71,6 +71,7 @@ const Hero = ({
               </p>
             </div>
           </div>
+          <YoutubeEmbed embedId="N0q_2gWMDo4" />
         </div>
       </div>
     </section>
