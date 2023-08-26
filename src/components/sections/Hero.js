@@ -77,9 +77,9 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://linktr.ee/kappasigmaubc"
+                    href="https://kappasigmaubc.net/"
                   >
-                    Rush 2023
+                    2023 CALENDAR
                   </Button>
                 </ButtonGroup>
               </div>
